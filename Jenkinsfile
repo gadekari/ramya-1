@@ -5,4 +5,6 @@ node {
     echo 'test'
     stage 'deploy'
     echo 'deploy'
+    stage 'Final'
+    echo 'Completed'
    }
